@@ -77,7 +77,6 @@
   "dependencies": {
     "amd-name-resolver": "1.2.0",
     "babel-plugin-compact-reexports": "^0.1.1",
-    "broccoli-babel-transpiler": "^6.1.2",
     "broccoli-concat": "^3.0.1",
     "broccoli-debug": "^0.6.4",
     "broccoli-dependency-funnel": "^2.0.1",
@@ -86,8 +85,7 @@
     "broccoli-merge-trees": "^2.0.0",
     "broccoli-test-helper": "^1.2.0",
     "calculate-cache-key-for-tree": "^1.0.0",
-    "ember-asset-loader": "^0.4.1",
-    "ember-cli-babel": "^6.11.0",
+    "ember-cli-babel": "^6.6.0",
     "ember-cli-preprocess-registry": "^3.0.0",
     "ember-cli-string-utils": "^1.0.0",
     "ember-cli-version-checker": "^2.1.0",
